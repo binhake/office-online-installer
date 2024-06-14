@@ -5,7 +5,7 @@ Easily install Microsoft Office 2019 from Microsoft 365
 3. Remove all example `.xml`, keep `setup.exe`
 4. Download `config_for_windows_32bit.xml` or `config_for_windows_32bit.xml` to suit your computer architecture (check System Type).
 5. Open `Command Prompt`, navigate to the path where you're saving `setup.exe` and `config_for_windows_xxbit.xml`
-6. Type `setup.exe /configre config_for_windows_32bit.xml` or `setup.exe /configre config_for_windows_64bit.xml`
+6. Type `setup.exe /configure config_for_windows_32bit.xml` or `setup.exe /configure config_for_windows_64bit.xml`
 7. Wait for the process to complete.
 8. Enjoy!
 
