@@ -1,5 +1,5 @@
-<Configuration ID="2dbaa7e1-0f99-4234-9a90-220e0c1f54ae">
-  <Add OfficeClientEdition="64" Channel="PerpetualVL2019">
+<Configuration ID="72f70d39-7fce-448f-8cb0-9e9ee80028be">
+  <Add OfficeClientEdition="32" Channel="PerpetualVL2019">
     <Product ID="ProPlus2019Volume" PIDKEY="NMMKJ-6RK4F-KMJVX-8D9MJ-6MWKP">
       <Language ID="en-us" />
       <Language ID="vi-vn" />
