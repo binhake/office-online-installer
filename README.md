@@ -1,4 +1,4 @@
-# Office19 Online Installer (Word, Excel and PowerPoint only, can customize the apps to install for yourself)
+# Microsoft Office 2019 Online Installer (Word, Excel and PowerPoint only, can customize the apps to install for yourself)
 Easily install Microsoft Office 2019 from Microsoft 365
 1. Download "Office Deployment Tool" from: https://www.microsoft.com/en-us/download/details.aspx?id=49117
 2. Run "officedeploymenttool_xxxxx-xxxxx.exe", accept the "Microsoft Software License Terms" and select path to extract file.
