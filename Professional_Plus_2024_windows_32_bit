@@ -1,8 +1,9 @@
-<Configuration ID="31d284b8-9fac-47e7-8736-174431a947dd">
+<Configuration ID="83186767-1efe-4c82-8707-2388d9f75656">
   <Info Description="Phần mềm được cài đặt và kích hoạt bản quyền bởi Binhake ツ | The software is installed and activated by Binhake ツ" />
-  <Add OfficeClientEdition="32" Channel="PerpetualVL2021">
-    <Product ID="ProPlus2021Volume" PIDKEY="FXYTK-NJJ8C-GB6DW-3DYQT-6F7TH">
+  <Add OfficeClientEdition="32" Channel="PerpetualVL2024">
+    <Product ID="ProPlus2024Volume" PIDKEY="XJ2XN-FW8RK-P4HMP-DKDBV-GCVGB">
       <Language ID="en-us" />
+      <Language ID="vi-vn" />
       <ExcludeApp ID="Access" />
       <ExcludeApp ID="Lync" />
       <ExcludeApp ID="OneDrive" />
