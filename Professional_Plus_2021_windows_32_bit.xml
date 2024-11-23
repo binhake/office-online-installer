@@ -1,15 +1,7 @@
 <Configuration ID="31d284b8-9fac-47e7-8736-174431a947dd">
+  <Info Description="Phần mềm được cài đặt và kích hoạt bản quyền bởi Binhake ツ | The software is installed and activated by Binhake ツ" />
   <Add OfficeClientEdition="32" Channel="PerpetualVL2021">
     <Product ID="ProPlus2021Volume" PIDKEY="FXYTK-NJJ8C-GB6DW-3DYQT-6F7TH">
-      <Language ID="en-us" />
-      <ExcludeApp ID="Access" />
-      <ExcludeApp ID="Lync" />
-      <ExcludeApp ID="OneDrive" />
-      <ExcludeApp ID="OneNote" />
-      <ExcludeApp ID="Outlook" />
-      <ExcludeApp ID="Publisher" />
-    </Product>
-    <Product ID="ProjectPro2021Volume" PIDKEY="FTNWT-C6WBT-8HMGF-K9PRX-QV9H8">
       <Language ID="en-us" />
       <ExcludeApp ID="Access" />
       <ExcludeApp ID="Lync" />
@@ -25,6 +17,7 @@
   <Property Name="SCLCacheOverride" Value="0" />
   <Property Name="AUTOACTIVATE" Value="1" />
   <Updates Enabled="TRUE" />
+  <RemoveMSI />
   <AppSettings>
     <Setup Name="Company" Value="binhake" />
   </AppSettings>
