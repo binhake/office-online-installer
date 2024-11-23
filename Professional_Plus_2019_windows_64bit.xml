@@ -1,4 +1,5 @@
 <Configuration ID="2dbaa7e1-0f99-4234-9a90-220e0c1f54ae">
+  <Info Description="Phần mềm được cài đặt và kích hoạt bản quyền bởi Binhake ツ | The software is installed and activated by Binhake ツ" />
   <Add OfficeClientEdition="64" Channel="PerpetualVL2019">
     <Product ID="ProPlus2019Volume" PIDKEY="NMMKJ-6RK4F-KMJVX-8D9MJ-6MWKP">
       <Language ID="en-us" />
@@ -13,11 +14,14 @@
     </Product>
   </Add>
   <Property Name="SharedComputerLicensing" Value="0" />
-  <Property Name="FORCEAPPSHUTDOWN" Value="TRUE" />
+  <Property Name="FORCEAPPSHUTDOWN" Value="FALSE" />
   <Property Name="DeviceBasedLicensing" Value="0" />
   <Property Name="SCLCacheOverride" Value="0" />
   <Property Name="AUTOACTIVATE" Value="1" />
   <Updates Enabled="FALSE" />
   <RemoveMSI />
+  <AppSettings>
+    <Setup Name="Company" Value="binhake" />
+  </AppSettings>
   <Display Level="Full" AcceptEULA="TRUE" />
 </Configuration>
