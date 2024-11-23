@@ -1,5 +1,5 @@
-# Microsoft Office 2021 Online Installer (Only for Word, Excel and PowerPoint, can customize applications to install themselves)
-Easy to install Microsoft Office 2021 from Microsoft 365
+# Microsoft Office 2024 Online Installer (Only for Word, Excel and PowerPoint, can customize applications to install themselves)
+Easy to install Microsoft Office 2024 from Microsoft 365
 1. Download this repository.
 2. Check your computer architecture (32-bit or 64-bit, check in System Type).
 3. Open `Command Prompt`, navigate to the path where you are saving the `setup.exe` and .xml files.
